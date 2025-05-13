@@ -1,0 +1,261 @@
+{
+  "settings": {
+    "eventPassword": "W7uFswmi",
+    "websitePublished": true,
+    "websitePasswordProtected": false,
+    "rsvpEnabled": true,
+    "websiteLogo": "https://dvzt1gorr4oil.cloudfront.net/e7080261-ea0d-40a8-a4ce-aed553c95900/public/images/original/Om3d4CIty5171gngjwExoeewLkI8yflDj1gvZkcg.webp",
+    "websiteLogoPosition": "left",
+    "websiteNavPosition": "left",
+    "websiteHomepageUuid": "f2df6ea1-0568-478b-aea9-20125fcf45b6",
+    "websiteBackgroundColor": "#396C72",
+    "websiteBackgroundImage": "https://dvzt1gorr4oil.cloudfront.net/e7080261-ea0d-40a8-a4ce-aed553c95900/public/images/original/U4O5aufvy3DvoLJxnYZq3fT7piCptNjlkg3jyL8t.webp",
+    "websiteBackgroundPosition": "top center",
+    "websiteBackgroundRepeat": "repeat",
+    "websiteBackgroundCover": false,
+    "websitePaddingX": "px-2",
+    "websiteGapX": "gap-x-6",
+    "websiteGapY": "gap-y-4",
+    "websiteFonts": {
+      "navigation": {
+        "fontName": "Lato",
+        "fontClass": "font-lato",
+        "fontSize": "text-base",
+        "fontWeight": "font-bold"
+      },
+      "heading": {
+        "fontName": "Poiret One",
+        "fontClass": "font-poiret-one",
+        "fontSize": "text-2xl",
+        "fontWeight": "font-bold"
+      },
+      "body": {
+        "fontName": "Lato",
+        "fontClass": "font-lato",
+        "fontSize": "text-base",
+        "fontWeight": "font-normal"
+      }
+    }
+  },
+  "pages": [
+    {
+      "uuid": "f2df6ea1-0568-478b-aea9-20125fcf45b6",
+      "title": "Home",
+      "slug": "home",
+      "navigationItem": 1,
+      "navigationTitle": "Home",
+      "navigationOrder": 1,
+      "visibility": 3,
+      "systemPage": true,
+      "published": true,
+      "deleted": false,
+      "components": [
+        {
+          "id": "f28e80b5-60c8-46df-8e47-19fd8d4ca669",
+          "name": "WebHero",
+          "props": {
+            "title": "Welcome to Flinnley",
+            "subtitle": "website preview",
+            "titleSize": "wc-hero-text-57",
+            "titleColor": "#ffffff",
+            "subtitleSize": "wc-hero-text-24",
+            "subtitleColor": "#ffffff",
+            "backgroundColor": "#f7f7f7",
+            "backgroundImage": "https://dvzt1gorr4oil.cloudfront.net/e7080261-ea0d-40a8-a4ce-aed553c95900/public/images/original/GSSOhuWFlRci4gt0x0ZqJjNSobqY2IhwIdS8u0HD.jpg",
+            "backgroundRepeat": "no-repeat",
+            "coverBackground": true,
+            "fluidBackground": false,
+            "backgroundPosition": "top right",
+            "paddingY": "wc-hero-py-9",
+            "paddingX": "wc-hero-px-0"
+          }
+        },
+        {
+          "id": "cdcf9a95-3588-4ada-bd66-068384be78e5",
+          "name": "GuestIdentificationComponent",
+          "props": {
+            "title": "Unlock Guest only details",
+            "content": "<p>View private pages of our event by providing your information</p>",
+            "textColor": "#000000",
+            "paddingX": "wc-px-0",
+            "paddingY": "wc-py-0",
+            "width": "wc-w-12",
+            "backgroundColor": "#ffffff",
+            "backgroundImage": null,
+            "backgroundRepeat": "repeat",
+            "coverBackground": true,
+            "backgroundPosition": "center center",
+            "buttonBackgroundColor": "#ffffff",
+            "buttonBorderSize": 1,
+            "buttonBorderColor": "#333333",
+            "buttonBorderRadius": 4,
+            "buttonPaddingX": "wc-px-10",
+            "buttonPaddingY": "wc-py-3",
+            "buttonText": "Ontgrendel prive pagina's",
+            "buttonTextColor": "#333333",
+            "buttonTextSize": "text-base",
+            "alignment": "text-center"
+          }
+        },
+        {
+          "id": "a2751ebc-2e13-4dd9-be0d-ea5829c7be99",
+          "name": "WebSpacer",
+          "props": {
+            "width": "wc-w-3",
+            "backgroundColor": "#ffffff",
+            "backgroundImage": null,
+            "backgroundRepeat": "repeat",
+            "coverBackground": true,
+            "backgroundPosition": "center center"
+          }
+        },
+        {
+          "id": "6e1f6fbd-f851-4c7e-8395-1120f379988d",
+          "name": "WebText",
+          "props": {
+            "title": "Welcome to Flinnley",
+            "content": "<p>We created this example website for you. You can easily customize the website via the webbuilder in your control panel. Drag and drop, edit or delete components to edit your website or change the website theme settings to give your website your own personal touch.</p>",
+            "textColor": "#000000",
+            "paddingX": "wc-px-0",
+            "paddingY": "wc-py-8",
+            "width": "wc-w-6",
+            "backgroundColor": "#ffffff",
+            "backgroundImage": null,
+            "backgroundRepeat": "repeat",
+            "coverBackground": true,
+            "backgroundPosition": "center center"
+          }
+        },
+        {
+          "id": "c9956528-732c-4d46-a039-263325ee6a95",
+          "name": "WebSpacer",
+          "props": {
+            "width": "wc-w-3",
+            "backgroundColor": "#ffffff",
+            "backgroundImage": null,
+            "backgroundRepeat": "repeat",
+            "coverBackground": true,
+            "backgroundPosition": "center center"
+          }
+        },
+        {
+          "id": "3c2e32f9-f086-436c-8b81-5dda1cbbb36e",
+          "name": "WebImage",
+          "props": {
+            "image": "https://dvzt1gorr4oil.cloudfront.net/e7080261-ea0d-40a8-a4ce-aed553c95900/public/images/original/dzbNFQdm8ewudaBnVBQjKulSop3DtNvQrvuVXQ2x.png",
+            "imageRadius": "wc-img-radius-0",
+            "width": "wc-w-12",
+            "paddingX": "wc-px-0",
+            "paddingY": "wc-py-0"
+          }
+        },
+        {
+          "id": "0c6175e6-c3bb-4e89-944b-16a94f6ad2e5",
+          "name": "WebCard",
+          "props": {
+            "image": "https://dvzt1gorr4oil.cloudfront.net/e7080261-ea0d-40a8-a4ce-aed553c95900/public/images/original/gopQIhAaXjFGQ4vRXVrwioK3L8Row8cpayYBcSRk.jpg",
+            "title": "Desgin",
+            "content": "<p><span style=\"background-color: rgb(255, 255, 255); color: rgb(0, 0, 0);\">You can easily customize the website, digital invitations, save the dates or other ecards with our builders. Drag and drop, edit or delete components in the builder to give it your own personal touch.</span></p>",
+            "textColor": "#000000",
+            "backgroundColor": "#ffffff",
+            "showBorder": false,
+            "borderColor": "#999999",
+            "width": "wc-w-4",
+            "paddingX": "wc-px-2",
+            "paddingY": "wc-py-2"
+          }
+        },
+        {
+          "id": "f4725708-5900-4c20-8e2e-80f7f88c5b0b",
+          "name": "WebCard",
+          "props": {
+            "image": "https://dvzt1gorr4oil.cloudfront.net/e7080261-ea0d-40a8-a4ce-aed553c95900/public/images/original/fFqu9aLjekXUzQrsYL5Yip3ZUwUt0gLgTcPSwzLR.jpg",
+            "title": "Manage",
+            "content": "<p><span style=\"background-color: rgb(255, 255, 255); color: rgb(0, 0, 0);\">You can easily customize the website, digital invitations, save the dates or other ecards with our builders. Drag and drop, edit or delete components in the builder to give it your own personal touch.</span></p>",
+            "textColor": "#000000",
+            "backgroundColor": "#ffffff",
+            "showBorder": false,
+            "borderColor": "#999999",
+            "width": "wc-w-4",
+            "paddingX": "wc-px-2",
+            "paddingY": "wc-py-2"
+          }
+        },
+        {
+          "id": "316ec56f-0789-4222-b84b-adb4394f860c",
+          "name": "WebCard",
+          "props": {
+            "image": "https://dvzt1gorr4oil.cloudfront.net/e7080261-ea0d-40a8-a4ce-aed553c95900/public/images/original/ufATbt6YaDpNMmr1GmqGhOMdGWRRFKzYnwCfuuUw.jpg",
+            "title": "Share",
+            "content": "<p><span style=\"background-color: rgb(255, 255, 255); color: rgb(0, 0, 0);\">You can easily customize the website, digital invitations, save the dates or other ecards with our builders. Drag and drop, edit or delete components in the builder to give it your own personal touch.</span></p>",
+            "textColor": "#000000",
+            "backgroundColor": "#ffffff",
+            "showBorder": false,
+            "borderColor": "#999999",
+            "width": "wc-w-4",
+            "paddingX": "wc-px-2",
+            "paddingY": "wc-py-2"
+          }
+        },
+        {
+          "id": "c5014418-4fa5-4f71-8be1-e381466ed50f",
+          "name": "WebImage",
+          "props": {
+            "image": "https://dvzt1gorr4oil.cloudfront.net/e7080261-ea0d-40a8-a4ce-aed553c95900/public/images/original/dzbNFQdm8ewudaBnVBQjKulSop3DtNvQrvuVXQ2x.png",
+            "imageRadius": "wc-img-radius-0",
+            "width": "wc-w-12",
+            "paddingX": "wc-px-0",
+            "paddingY": "wc-py-0"
+          }
+        },
+        {
+          "id": "6fc0b536-1572-4aba-9dd3-c803d30cbe9f",
+          "name": "WebSpacer",
+          "props": {
+            "width": "wc-w-2",
+            "backgroundColor": "#ffffff",
+            "backgroundImage": null,
+            "backgroundRepeat": "repeat",
+            "coverBackground": true,
+            "backgroundPosition": "center center"
+          }
+        },
+        {
+          "id": "c8bdd03f-554f-4389-abb3-96919f6d1ca9",
+          "name": "WebYoutube",
+          "props": {
+            "youtubeUrl": "https://www.youtube.com/watch?v=1iHkrX7l0K8",
+            "paddingX": "wc-px-0",
+            "paddingY": "wc-py-8",
+            "width": "wc-w-8",
+            "backgroundColor": "#ffffff"
+          }
+        }
+      ],
+      "tags": [
+        1,
+        3
+      ]
+    },
+    {
+      "uuid": "690f692e-5480-4c55-9ad8-e958ee331a08",
+      "title": "RSVP",
+      "slug": "rsvp",
+      "navigationItem": 1,
+      "navigationTitle": "RSVP",
+      "navigationOrder": 2,
+      "visibility": 1,
+      "systemPage": true,
+      "published": true,
+      "deleted": false,
+      "components": [
+        {
+          "id": "90ba1527-1327-4c73-add4-d55f049d3486",
+          "name": "WebRsvp",
+          "props": null
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "actions": {
+    "save": "Save",
+    "cancel": "Cancel",
+    "add": "Add",
+    "delete": "Delete",
+    "deleteComponent": "Delete component",
+    "deleteComponentConfirmMessage": "Are you sure you want to delete this component?"
+  },
+  "controls": {
+    "settings": "Settings"
+  },
+  "config": {
+    "new_page": {
+      "button": {
+        "label": "New page"
+      },
+      "modal": {
+        "title": "Add new page"
+      }
+    },
+    "webComponentConfigurator": {
+      "title": "Edit component"
+    }
+  },
+  "webComponent": {
+    "webYoutube": {
+      "consent": {
+        "title": "Accepteer YouTube-cookies om deze video af te spelen",
+        "message": "Youtube is een service van een derde partij. Door cookies van derden te accepteren ga je akkoord met hun <a href=\"https://policies.google.com/privacy\" target=\"_blank\" class=\"underline\">privacyverklaring</a> en <a href=\"https://policies.google.com/terms\" target=\"_blank\" class=\"underline\">voorwaarden</a>. Derden kunnen data over jou verzamelen.",
+        "button": "Accepteer YouTube-cookies"
+      }
+    }
+  },
+  "form": {
+    "label": {
+      "title": "Title",
+      "width": "Width",
+      "backgroundRepeat": "Background repetition",
+      "backgroundPosition": "Background position",
+      "url": "URL",
+      "navItem": "Navigation item",
+      "navTitle": "Navigation title",
+      "youtubeUrl": "Youtube URL"
+    },
+    "options": {
+      "navItem": {
+        "public": "Public",
+        "hidden": "Hidden"
+      }
+    }
+  }
+}
